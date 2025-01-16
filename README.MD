@@ -29,5 +29,6 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ---
 ## ✨ Resultado:
-- 
+- https://github.com/Holtzjr/prompts-for-podcast-generate-by-ia/blob/main/output/Podcast%20EP01%20-%20Estado%20de%20flow.MP3
+---
 ⌨️ com 💜 por [Henrique Holtz Jr](https://github.com/Holtzjr)
