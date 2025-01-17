@@ -7,6 +7,8 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
+<a href="https://open.spotify.com/episode/4uOSYYfHtmMEKGFpkGWFn0?si=jWr1fcwdTJqUgxQe7SVmEQ"> 📕Clique aqui para ouvir</a>
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
