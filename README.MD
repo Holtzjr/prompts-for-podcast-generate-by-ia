@@ -15,13 +15,18 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 <a href="https://open.spotify.com/episode/4uOSYYfHtmMEKGFpkGWFn0?si=jWr1fcwdTJqUgxQe7SVmEQ"> 📕Clique aqui para ouvir</a>
 
+
 Como a IA foi utilizada no desenvolvimento do podcast?
+
 A inteligência artificial desempenhou um papel central no desenvolvimento do Cúpula da Liderança, otimizando processos e elevando a qualidade da produção. As seguintes ferramentas foram aplicadas de maneira estratégica:
 
 1. Notion – Organização e Planejamento
+
 O Notion foi utilizado para estruturar o projeto, desde a definição do público-alvo até o planejamento dos episódios. Ele serviu como base para a organização das pautas, roteiro e gerenciamento de ideias, garantindo um fluxo eficiente de criação.
 
+
 2. ChatGPT – Roteirização e Refinamento de Conteúdo
+
 O ChatGPT foi essencial na criação dos roteiros do podcast. Com ele, foi possível:
 
 ✅ Desenvolver introduções inspiradas em grandes veículos como BBC News e Bloomberg
@@ -31,6 +36,7 @@ O ChatGPT foi essencial na criação dos roteiros do podcast. Com ele, foi poss�
 ✅ Elaborar descrições precisas e estratégicas para as plataformas de distribuição
 
 ✅ Adaptar a linguagem para tornar o conteúdo mais acessível e motivador para os ouvintes
+
 
 3. MidJourney – Identidade Visual
 
@@ -42,6 +48,7 @@ A identidade visual do podcast foi criada com o auxílio do MidJourney, ferramen
 
 🎨 Dar um tom moderno e sofisticado, alinhado à proposta do conteúdo
 
+
 4. ElevenLabs – Narração Profissional por IA
 Para garantir um áudio de alta qualidade, a IA da ElevenLabs foi utilizada para testar e ajustar a narração do podcast. Isso possibilitou:
 
@@ -51,7 +58,9 @@ Para garantir um áudio de alta qualidade, a IA da ElevenLabs foi utilizada para
 
 🎙️ Tornar a produção mais ágil e eficiente, reduzindo o tempo de edição
 
+
 5. CapCut – Edição e Pós-Produção
+
 O CapCut foi utilizado para editar e aprimorar o episódio antes da publicação. Com ele, foi possível:
 
 🎧 Ajustar o áudio para garantir clareza e profissionalismo
@@ -60,7 +69,9 @@ O CapCut foi utilizado para editar e aprimorar o episódio antes da publicação
 
 🎧 Exportar o episódio com qualidade otimizada para diferentes plataformas
 
+
 O Potencial Transformador do Projeto
+
 Embora o impacto real ainda esteja sendo construído, o Cúpula da Liderança tem um enorme potencial de transformação social. Ao utilizar IA para democratizar o conhecimento sobre liderança e gestão financeira, o projeto:
 
 ✅ Quebra barreiras de acesso à educação executiva, tornando insights valiosos disponíveis para um público amplo
@@ -71,7 +82,9 @@ Embora o impacto real ainda esteja sendo construído, o Cúpula da Liderança te
 
 ✅ Revoluciona a forma como conteúdo de alto nível é produzido, reduzindo custos e otimizando processos com inteligência artificial
 
+
 O Cúpula da Liderança é mais do que um podcast—é um projeto que usa tecnologia para inspirar, educar e transformar o mercado financeiro, preparando uma nova geração de líderes para enfrentar os desafios do futuro. 🚀
+
 
 ## 📚 Outros materiais utilizados
 - [Bootcamp na DIO](https://dio.me)
