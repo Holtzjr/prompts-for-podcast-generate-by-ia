@@ -21,11 +21,12 @@ Como a IA foi utilizada no desenvolvimento do podcast?
 
 A inteligência artificial desempenhou um papel central no desenvolvimento do Cúpula da Liderança, otimizando processos e elevando a qualidade da produção. As seguintes ferramentas foram aplicadas de maneira estratégica:
 
+---
 1. Notion – Organização e Planejamento
 
 O Notion foi utilizado para estruturar o projeto, desde a definição do público-alvo até o planejamento dos episódios. Ele serviu como base para a organização das pautas, roteiro e gerenciamento de ideias, garantindo um fluxo eficiente de criação.
 
-
+---
 2. ChatGPT – Roteirização e Refinamento de Conteúdo
 
 O ChatGPT foi essencial na criação dos roteiros do podcast. Com ele, foi possível:
@@ -38,7 +39,7 @@ O ChatGPT foi essencial na criação dos roteiros do podcast. Com ele, foi poss�
 
 ✅ Adaptar a linguagem para tornar o conteúdo mais acessível e motivador para os ouvintes.
 
-
+---
 3. MidJourney – Identidade Visual
 
 A identidade visual do podcast foi criada com o auxílio do MidJourney, ferramenta de IA generativa para imagens. Ele foi usado para:
@@ -49,7 +50,7 @@ A identidade visual do podcast foi criada com o auxílio do MidJourney, ferramen
 
 🎨 Dar um tom moderno e sofisticado, alinhado à proposta do conteúdo.
 
-
+---
 4. ElevenLabs – Narração Profissional por IA
 Para garantir um áudio de alta qualidade, a IA da ElevenLabs foi utilizada para testar e ajustar a narração do podcast. Isso possibilitou:
 
@@ -59,7 +60,7 @@ Para garantir um áudio de alta qualidade, a IA da ElevenLabs foi utilizada para
 
 🎙️ Tornar a produção mais ágil e eficiente, reduzindo o tempo de edição.
 
-
+---
 5. CapCut – Edição e Pós-Produção
 
 O CapCut foi utilizado para editar e aprimorar o episódio antes da publicação. Com ele, foi possível:
@@ -70,7 +71,7 @@ O CapCut foi utilizado para editar e aprimorar o episódio antes da publicação
 
 🎧 Exportar o episódio com qualidade otimizada para diferentes plataformas.
 
-
+---
 O Potencial Transformador do Projeto
 
 Embora o impacto real ainda esteja sendo construído, o Cúpula da Liderança tem um enorme potencial de transformação social. Ao utilizar IA para democratizar o conhecimento sobre liderança e gestão financeira, o projeto:
